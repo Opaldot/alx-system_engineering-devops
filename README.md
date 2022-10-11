@@ -1,4 +1,3 @@
-#!/bin/bash
-Task 0.Where am i?
+Solution repository to shell tasks
 
 
