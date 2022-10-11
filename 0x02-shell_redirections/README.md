@@ -1,3 +1,4 @@
- #!/bin/bash
-script that prints “Hello, World”
+ My README describe functions
+
+
 
